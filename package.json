@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "primeiro-projeto",
+  "description": "Um projeto simples, con funcionalidades de cadastro, listagem e busca.",
+  "version": "1.0.0",
+  "main": "bancodedados.js",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
