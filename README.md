@@ -2,7 +2,6 @@
 
 Um projeto simples, con funcionalidades de cadastro, listagem e busca.
 
-[Acesse o projeto em produção](https://projetocss-jesscoder.netlify.app/)
 
 ## :man_mechanic: Linguagens e Ferramentas
 
@@ -10,13 +9,6 @@ Um projeto simples, con funcionalidades de cadastro, listagem e busca.
 - Javascript
 - Vscode
 
-
-## :paintbrush: Layout
-
-### :desktop_computer: Desktop
-
-
-<img src=file:///C:/Users/Administrador/Pictures/Screenshots/Projeto.jpg/>
 
 ## :triangular_flag_on_post: Contribua com o projeto
 
